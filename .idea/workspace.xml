@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f613c2df-a770-4a7e-a2c1-1f448990bdd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckIfNandItsDoubleExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoveAllZeroesAtEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfOccurances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidMountainArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DuplicateZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DuplicateZeros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,40 +44,43 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598343490849" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.ArrayCompare">
-    <configuration name="ArrayCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayCompare" />
+  <component name="RunManager" selected="Application.ValidMountainArray">
+    <configuration name="CheckIfNandItsDoubleExists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckIfNandItsDoubleExists" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+    <configuration name="MergeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSortedArrays" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicateZeros" />
+    <configuration name="RemoveDuplicateFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveDuplicateFromSortedArray" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenNumberDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EvenNumberDigits" />
+    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RemoveElement" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquaresOfSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SquaresOfSortedArray" />
+    <configuration name="ValidMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidMountainArray" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayCompare" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.DuplicateZeros" />
-        <item itemvalue="Application.SquaresOfSortedArray" />
-        <item itemvalue="Application.EvenNumberDigits" />
+        <item itemvalue="Application.ValidMountainArray" />
+        <item itemvalue="Application.CheckIfNandItsDoubleExists" />
+        <item itemvalue="Application.RemoveDuplicateFromSortedArray" />
+        <item itemvalue="Application.RemoveElement" />
+        <item itemvalue="Application.MergeSortedArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -101,10 +111,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1388" height="217" key="GridCell.Tab.0.bottom" timestamp="1600798372549">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1388" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600798372549" />
+    <state width="1388" height="217" key="GridCell.Tab.0.center" timestamp="1600798372548">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1388" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600798372548" />
+    <state width="1388" height="217" key="GridCell.Tab.0.left" timestamp="1600798372547">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1388" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600798372547" />
+    <state width="1388" height="217" key="GridCell.Tab.0.right" timestamp="1600798372548">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1388" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600798372548" />
     <state x="0" y="23" width="1201" height="877" key="SettingsEditor" timestamp="1599029905022">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="0" y="23" width="1201" height="877" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1599029905022" />
+    <state x="340" y="23" key="new project wizard" timestamp="1599046263438">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="340" y="23" key="new project wizard/0.23.1440.877@0.23.1440.877" timestamp="1599046263438" />
   </component>
   <component name="masterDetails">
     <states>
