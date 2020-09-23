@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f613c2df-a770-4a7e-a2c1-1f448990bdd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CheckIfNandItsDoubleExists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoveAllZeroesAtEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberOfOccurances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveDuplicateFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DisapearredArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeightChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReplaceElementWithGreatestElementOnRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortArrayByParity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdMaximum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DuplicateZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DuplicateZeros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,37 +47,37 @@
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Application.ValidMountainArray">
-    <configuration name="CheckIfNandItsDoubleExists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckIfNandItsDoubleExists" />
+  <component name="RunManager" selected="Application.DisapearredArrayElements">
+    <configuration name="DisapearredArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DisapearredArrayElements" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MergeSortedArrays" />
+    <configuration name="HeightChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeightChecker" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateFromSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicateFromSortedArray" />
+    <configuration name="ReplaceElementWithGreatestElementOnRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplaceElementWithGreatestElementOnRight" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveElement" />
+    <configuration name="SortArrayByParity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortArrayByParity" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidMountainArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ValidMountainArray" />
+    <configuration name="ThirdMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdMaximum" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ValidMountainArray" />
-        <item itemvalue="Application.CheckIfNandItsDoubleExists" />
-        <item itemvalue="Application.RemoveDuplicateFromSortedArray" />
-        <item itemvalue="Application.RemoveElement" />
-        <item itemvalue="Application.MergeSortedArrays" />
+        <item itemvalue="Application.DisapearredArrayElements" />
+        <item itemvalue="Application.ThirdMaximum" />
+        <item itemvalue="Application.HeightChecker" />
+        <item itemvalue="Application.SortArrayByParity" />
+        <item itemvalue="Application.ReplaceElementWithGreatestElementOnRight" />
       </list>
     </recent_temporary>
   </component>
@@ -111,22 +108,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1388" height="217" key="GridCell.Tab.0.bottom" timestamp="1600798372549">
+    <state width="1388" height="217" key="GridCell.Tab.0.bottom" timestamp="1600888123888">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1388" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600798372549" />
-    <state width="1388" height="217" key="GridCell.Tab.0.center" timestamp="1600798372548">
+    <state width="1388" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600888123888" />
+    <state width="1388" height="217" key="GridCell.Tab.0.center" timestamp="1600888123887">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1388" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600798372548" />
-    <state width="1388" height="217" key="GridCell.Tab.0.left" timestamp="1600798372547">
+    <state width="1388" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600888123887" />
+    <state width="1388" height="217" key="GridCell.Tab.0.left" timestamp="1600888123887">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1388" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600798372547" />
-    <state width="1388" height="217" key="GridCell.Tab.0.right" timestamp="1600798372548">
+    <state width="1388" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600888123887" />
+    <state width="1388" height="217" key="GridCell.Tab.0.right" timestamp="1600888123888">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1388" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600798372548" />
+    <state width="1388" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600888123888" />
     <state x="0" y="23" width="1201" height="877" key="SettingsEditor" timestamp="1599029905022">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
